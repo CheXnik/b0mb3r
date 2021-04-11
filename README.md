@@ -17,7 +17,7 @@
 
 2. Введите следующую команду:
 ```sh
-pip3 install https://github.com/CheXnik/b0mb3r/master.zip --upgrade
+pip3 install https://github.com/CheXnik/b0mb3r/archive/master.zip --upgrade
 ```
 
 ## Запуск
